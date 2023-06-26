@@ -1,0 +1,12 @@
+C:\Users\alunoinfo\source\repos\Exemplo QRCode\Exemplo QRCode\bin\Debug\Exemplo QRCode.exe.config
+C:\Users\alunoinfo\source\repos\Exemplo QRCode\Exemplo QRCode\bin\Debug\Exemplo QRCode.exe
+C:\Users\alunoinfo\source\repos\Exemplo QRCode\Exemplo QRCode\bin\Debug\Exemplo QRCode.pdb
+C:\Users\alunoinfo\source\repos\Exemplo QRCode\Exemplo QRCode\bin\Debug\QRCoder.dll
+C:\Users\alunoinfo\source\repos\Exemplo QRCode\Exemplo QRCode\obj\Debug\Exemplo QRCode.csproj.AssemblyReference.cache
+C:\Users\alunoinfo\source\repos\Exemplo QRCode\Exemplo QRCode\obj\Debug\Exemplo_QRCode.Form1.resources
+C:\Users\alunoinfo\source\repos\Exemplo QRCode\Exemplo QRCode\obj\Debug\Exemplo_QRCode.Properties.Resources.resources
+C:\Users\alunoinfo\source\repos\Exemplo QRCode\Exemplo QRCode\obj\Debug\Exemplo QRCode.csproj.GenerateResource.cache
+C:\Users\alunoinfo\source\repos\Exemplo QRCode\Exemplo QRCode\obj\Debug\Exemplo QRCode.csproj.CoreCompileInputs.cache
+C:\Users\alunoinfo\source\repos\Exemplo QRCode\Exemplo QRCode\obj\Debug\Exemplo QRCode.csproj.CopyComplete
+C:\Users\alunoinfo\source\repos\Exemplo QRCode\Exemplo QRCode\obj\Debug\Exemplo QRCode.exe
+C:\Users\alunoinfo\source\repos\Exemplo QRCode\Exemplo QRCode\obj\Debug\Exemplo QRCode.pdb
